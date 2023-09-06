@@ -1,6 +1,6 @@
 function Player(props) {
+  
   return (
-
     <article className="Player">
       <h1>{props.firstName} <span>{props.gamerTag}</span> {props.lastName}</h1>
 
